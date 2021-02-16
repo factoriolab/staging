@@ -7,14 +7,14 @@ export const data: AppData = {
   base: [
     { id: '1.1', name: '1.1.19' },
     { id: '1.0', name: '1.0.0' },
-    { id: '.17', name: '0.17.79' },
-    { id: '.16', name: '0.16.51' },
+    { id: '017', name: '0.17.79' },
+    { id: '016', name: '0.16.51' },
     { id: 'bio', name: 'Bio Industries' },
     { id: 'bob', name: 'Bob\'s Mods' },
     { id: 'bobang', name: 'Bob\'s & Angel\'s' },
     { id: 'dsp', name: 'Dyson Sphere Program' },
     { id: 'fep', name: 'FactorioExtended Plus' },
-    { id: 'irv', name: 'Industrial Revolution 2' },
+    { id: 'ir2', name: 'Industrial Revolution 2' },
     { id: 'kr2', name: 'Krastorio 2' },
     { id: 'kr2sxp', name: 'Krastorio 2 + SE' },
     { id: 'pys', name: 'Pyanodons' },
@@ -27,7 +27,6 @@ export const data: AppData = {
     {
       id: 'res',
       name: 'Infinite Research',
-      compatibleIds: ['1.1', '1.0', '.18', '.17', '.16'],
     },
   ],
   v0: [
@@ -47,13 +46,13 @@ export const data: AppData = {
     'pyanodons+al',
     'seablock',
     'space-exploration',
-    'xander'
+    'xander',
   ],
   hash: [
     '1.1',
     '1.0',
-    '.17',
-    '.16',
+    '017',
+    '016',
     'bio',
     'bob',
     'bobang',
@@ -66,6 +65,6 @@ export const data: AppData = {
     'pysalf',
     'sea',
     'sxp',
-    'xan'
+    'xan',
   ],
 };
