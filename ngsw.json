@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1662659155562,
+  "timestamp": 1663097334381,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,16 +11,16 @@
         "ignoreVary": true
       },
       "urls": [
-        "/291.22652d0f0b28d3a2.js",
-        "/503.7158770fbd313cfa.js",
+        "/291.819bf11efd6624c9.js",
+        "/503.38386b007b7375e1.js",
         "/811.3858a4a19f3abad7.js",
         "/favicon.ico",
         "/index.html",
-        "/main.20262eb289c6a4ea.js",
+        "/main.163a123a3f9f8ae6.js",
         "/manifest.webmanifest",
         "/polyfills.d42b0043713bc9d9.js",
-        "/runtime.91e3941a1404a32c.js",
-        "/styles.ca3800cd57c04a2b.css",
+        "/runtime.9728d820e6eeb9ee.js",
+        "/styles.7ae33f0caf2b4599.css",
         "/theme-dark.css",
         "/theme-light.css"
       ],
@@ -34,6 +34,10 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/favicon/coi.ico",
+        "/assets/favicon/dsp.ico",
+        "/assets/favicon/factorio.ico",
+        "/assets/favicon/satisfactory.ico",
         "/assets/glpk-wasm/glpk.all.wasm",
         "/assets/i18n/en.json",
         "/assets/i18n/zh.json",
@@ -65,11 +69,15 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/291.22652d0f0b28d3a2.js": "2ba99245dea90b5609e7dda11c792248fe882cf9",
-    "/503.7158770fbd313cfa.js": "0e8f42e2345d0908a2341172e5899a6d279d2b5a",
+    "/291.819bf11efd6624c9.js": "e568da9b0b15f8114ce35a3d2a2320bb605983bf",
+    "/503.38386b007b7375e1.js": "9ce7ba42f61b8aad6e96ce97d71e5dffc6441188",
     "/811.3858a4a19f3abad7.js": "8651ae27e97417148ce6dde6fc6ed2d939c9dd2a",
+    "/assets/favicon/coi.ico": "2eefd456b8f4c4aa1753773513b14ecb684ecaf8",
+    "/assets/favicon/dsp.ico": "64b5f85a13d1783d6a03bd27137abdf5f2cb9396",
+    "/assets/favicon/factorio.ico": "742d3faf065bf4f7d8411047d2e9152416f904fa",
+    "/assets/favicon/satisfactory.ico": "248360c1f0e99c97eef67feab88d7d07ec1b2b99",
     "/assets/glpk-wasm/glpk.all.wasm": "e23240d859358856b7106bba79e00b987170dbde",
-    "/assets/i18n/en.json": "ecc12945c0cd9a1d58dfe9b890a2ae1cc72950f1",
+    "/assets/i18n/en.json": "c06cd9604a6dcaa242db4f93b69f01af650a6cb2",
     "/assets/i18n/zh.json": "3a94e9af95468ed6182015bd7e48b3a9ed479809",
     "/assets/icons/icon-128x128.png": "983e77afd570f31ac052b051c3195ad4f868abf6",
     "/assets/icons/icon-144x144.png": "f7ca93fd4ecf6f8c64cb159ca872be67de2dc0b5",
@@ -91,16 +99,16 @@
     "/fa-v4compatibility.d2f7b4c4559fd6fe.woff2": "9e1f957bf329bd280aba89e578420301b312403d",
     "/favicon.ico": "98abad45ff4f9ac767af6e97f43545a9d4f5bef9",
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/index.html": "23c419bd9a06039481521163db371db85689f1ac",
-    "/main.20262eb289c6a4ea.js": "bd994f02c0b16efe210c1fe00856ceb7a14b8b20",
+    "/index.html": "146eda72e2177da4bdc3dfc478d1e2cbe34ecd36",
+    "/main.163a123a3f9f8ae6.js": "2b12a7c81b58753d917ffd5da2acc2de7d387ccc",
     "/manifest.webmanifest": "7a49c3cf3daf0db80b34da814984e509d9d18a54",
     "/polyfills.d42b0043713bc9d9.js": "a73fc8c65fb510d07b89afc432d5b7627ad182fa",
     "/primeicons.29151a741d66863a.woff": "21e477ea19e15b66344bcc23b3fbb2161092a707",
     "/primeicons.5f5d08cd089b4e5d.ttf": "e6c86ca90a9fb4282fb35523d56fde00e78a1416",
     "/primeicons.76044b1c189cc4d7.svg": "621775b2ec555fd2dd152a24390cf6dfeee168b1",
-    "/runtime.91e3941a1404a32c.js": "65505509320b7681028702d877a371eca00b6c4b",
-    "/styles.ca3800cd57c04a2b.css": "0503fa22209cfd5c6a7dd39e8024d8fd000cc930",
-    "/theme-dark.css": "9c86c487c280dc77d970965f8ab8e001bdd5fbfa",
+    "/runtime.9728d820e6eeb9ee.js": "9476b905e0ba74f1608da3db0dc9c68d79190156",
+    "/styles.7ae33f0caf2b4599.css": "77866e2d0eec289b4d7f4e2543bbfc1db8ae6e53",
+    "/theme-dark.css": "6c4327cf6e62dd76a0998320fe990f59d4bfedef",
     "/theme-light.css": "7cff62f97ed290d7d49d8168af622d346c3dd6a2"
   },
   "navigationUrls": [
