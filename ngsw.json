@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1663389741936,
+  "timestamp": 1663441186659,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -20,7 +20,7 @@
         "/manifest.webmanifest",
         "/polyfills.d42b0043713bc9d9.js",
         "/runtime.242f7bdf60b41404.js",
-        "/styles.9be3bcf5d9ad0032.css",
+        "/styles.ba710091ec158433.css",
         "/theme-dark.css",
         "/theme-light.css"
       ],
@@ -89,7 +89,7 @@
     "/assets/icons/icon-512x512.png": "8316392f7ba8787290d81642e3f81981e2e8dc32",
     "/assets/icons/icon-72x72.png": "af772f4d8e1f9d20a1a73cd74875dc44dbe61d1d",
     "/assets/icons/icon-96x96.png": "e2f631847e869a681191485f9273c892eeb4ef09",
-    "/assets/icons/icons.png": "23a6ff55aa4dfec41a8d517a68cb22bcaf6d4622",
+    "/assets/icons/icons.png": "0edc6786610b62438b9975eb53c5365cff87169a",
     "/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
     "/fa-brands-400.87a84e7a754d3ea3.woff2": "380bea4e9eb484d835d89cc608f2af7c3179e8a4",
     "/fa-brands-400.8f295425e00606a5.ttf": "42350ed503d66ae23a9c68d38966f25bc3007319",
@@ -101,7 +101,7 @@
     "/fa-v4compatibility.d2f7b4c4559fd6fe.woff2": "9e1f957bf329bd280aba89e578420301b312403d",
     "/favicon.ico": "98abad45ff4f9ac767af6e97f43545a9d4f5bef9",
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/index.html": "05099e22e3a387ba1a9c3b0a52cf11b9c5cd7822",
+    "/index.html": "742251a1f12302e58e0cd1081150f0775e8d7d4a",
     "/main.9f44cc9a45787ec2.js": "2b92d73639eee67a87f08a0ff51e1f346beb5297",
     "/manifest.webmanifest": "7a49c3cf3daf0db80b34da814984e509d9d18a54",
     "/polyfills.d42b0043713bc9d9.js": "a73fc8c65fb510d07b89afc432d5b7627ad182fa",
@@ -109,7 +109,7 @@
     "/primeicons.5f5d08cd089b4e5d.ttf": "e6c86ca90a9fb4282fb35523d56fde00e78a1416",
     "/primeicons.76044b1c189cc4d7.svg": "621775b2ec555fd2dd152a24390cf6dfeee168b1",
     "/runtime.242f7bdf60b41404.js": "c3224527fc3a6c27ce8dace70429b21ecdac0fa7",
-    "/styles.9be3bcf5d9ad0032.css": "7d24a97fdfd69bf9a4ebfea3830247dd42c3708f",
+    "/styles.ba710091ec158433.css": "2b466bf8a9b47bdff7df88755a693aabc91054d7",
     "/theme-dark.css": "6c4327cf6e62dd76a0998320fe990f59d4bfedef",
     "/theme-light.css": "ea5bfcc1d999341e78e63e00e9e66626e01ac750"
   },
