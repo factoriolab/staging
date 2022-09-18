@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1663473658714,
+  "timestamp": 1663475353502,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -20,7 +20,7 @@
         "/manifest.webmanifest",
         "/polyfills.d42b0043713bc9d9.js",
         "/runtime.35bb0bfa9672927e.js",
-        "/styles.94a2c1aa895dc544.css",
+        "/styles.7868548a5bd50f08.css",
         "/theme-dark.css",
         "/theme-light.css"
       ],
@@ -61,6 +61,7 @@
         "/fa-v4compatibility.0186d7efd2319b1b.ttf",
         "/fa-v4compatibility.d2f7b4c4559fd6fe.woff2",
         "/hue.8b1818380241e6ac.png",
+        "/icons.8bc191c2a3e30dd2.png",
         "/primeicons.29151a741d66863a.woff",
         "/primeicons.5f5d08cd089b4e5d.ttf",
         "/primeicons.76044b1c189cc4d7.svg"
@@ -101,7 +102,8 @@
     "/fa-v4compatibility.d2f7b4c4559fd6fe.woff2": "9e1f957bf329bd280aba89e578420301b312403d",
     "/favicon.ico": "98abad45ff4f9ac767af6e97f43545a9d4f5bef9",
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
-    "/index.html": "290e39b630aabfdb4026de466d557f7dc73c289f",
+    "/icons.8bc191c2a3e30dd2.png": "0edc6786610b62438b9975eb53c5365cff87169a",
+    "/index.html": "5594f06ea261458fc14699e34ac38b60afc4856a",
     "/main.a776f23d3ed1c48b.js": "df128a601cf840c11e97534940ef84b5cab0ddbc",
     "/manifest.webmanifest": "7a49c3cf3daf0db80b34da814984e509d9d18a54",
     "/polyfills.d42b0043713bc9d9.js": "a73fc8c65fb510d07b89afc432d5b7627ad182fa",
@@ -109,7 +111,7 @@
     "/primeicons.5f5d08cd089b4e5d.ttf": "e6c86ca90a9fb4282fb35523d56fde00e78a1416",
     "/primeicons.76044b1c189cc4d7.svg": "621775b2ec555fd2dd152a24390cf6dfeee168b1",
     "/runtime.35bb0bfa9672927e.js": "9920a4ba82f587c90f46dd645f78c7a2e06ddf8f",
-    "/styles.94a2c1aa895dc544.css": "cdf189666b627599cbcdf774b62d1e6f4482d250",
+    "/styles.7868548a5bd50f08.css": "41f89a3e7377441a45bc4e31faf97234afb13843",
     "/theme-dark.css": "a8dfd15b08e92ccf754b1df4d4127cbc9b8420b2",
     "/theme-light.css": "9b04c5f878b707f4f2e2668f620628a0a99b027b"
   },
