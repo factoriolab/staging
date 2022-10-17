@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1666033112986,
+  "timestamp": 1666036438950,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "/993.d4374d7c386b979e.js",
         "/favicon.ico",
         "/index.html",
-        "/main.dd2e83588c9f2375.js",
+        "/main.43aeed8a34fc8bc8.js",
         "/manifest.webmanifest",
         "/polyfills.d42b0043713bc9d9.js",
         "/runtime.cf8e4fb4569508b4.js",
@@ -81,8 +81,8 @@
     "/assets/favicon/factorio.ico": "742d3faf065bf4f7d8411047d2e9152416f904fa",
     "/assets/favicon/satisfactory.ico": "248360c1f0e99c97eef67feab88d7d07ec1b2b99",
     "/assets/glpk-wasm/glpk.all.wasm": "e23240d859358856b7106bba79e00b987170dbde",
-    "/assets/i18n/en.json": "4bedfe2d084baf6152892d9c5aaea0cc196bef9a",
-    "/assets/i18n/fr.json": "44e1df3ebf9a0346e210480b3b912668093549c1",
+    "/assets/i18n/en.json": "4e2a05f365b8be696fe37bb9de001631cd544b22",
+    "/assets/i18n/fr.json": "0fc456458cccfb61097684b44d664f7f1792848c",
     "/assets/i18n/zh.json": "3a94e9af95468ed6182015bd7e48b3a9ed479809",
     "/assets/icons/icon-128x128.png": "983e77afd570f31ac052b051c3195ad4f868abf6",
     "/assets/icons/icon-144x144.png": "f7ca93fd4ecf6f8c64cb159ca872be67de2dc0b5",
@@ -106,8 +106,8 @@
     "/favicon.ico": "98abad45ff4f9ac767af6e97f43545a9d4f5bef9",
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
     "/icons.8bc191c2a3e30dd2.png": "0edc6786610b62438b9975eb53c5365cff87169a",
-    "/index.html": "53982e6bdf0f05181a34cf6796900fd2095626f1",
-    "/main.dd2e83588c9f2375.js": "ae8e59b49098a89880dd96d621b26b6d714f69e0",
+    "/index.html": "d3bfc3da820dc8a6c6637e138340f5e3607b2f48",
+    "/main.43aeed8a34fc8bc8.js": "2b95bc617a60a522a058a767945944f55849ca88",
     "/manifest.webmanifest": "7a49c3cf3daf0db80b34da814984e509d9d18a54",
     "/polyfills.d42b0043713bc9d9.js": "a73fc8c65fb510d07b89afc432d5b7627ad182fa",
     "/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
