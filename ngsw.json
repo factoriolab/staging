@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1670520549913,
+  "timestamp": 1670527734365,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -20,7 +20,7 @@
         "/common.afa309bb0e08db96.js",
         "/favicon.ico",
         "/index.html",
-        "/main.7c518bfc9e3a1251.js",
+        "/main.4fd2d3320f196b62.js",
         "/manifest.webmanifest",
         "/polyfills.d42b0043713bc9d9.js",
         "/runtime.e0e87029a63dd01c.js",
@@ -38,10 +38,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/favicon/coi.ico",
-        "/assets/favicon/dsp.ico",
-        "/assets/favicon/factorio.ico",
-        "/assets/favicon/satisfactory.ico",
         "/assets/glpk-wasm/glpk.all.wasm",
         "/assets/i18n/en.json",
         "/assets/i18n/fr.json",
@@ -83,10 +79,6 @@
     "/892.cdf166991bc502b6.js": "7c8f44cf867ad63af86a4d586e15c49b1b985825",
     "/900.b30f27043ad0ef7b.js": "9ef42e3c438c007dd3993d8418d9747bf97cd4c3",
     "/973.c686568930f5e5ba.js": "c0163bb824ecd99e40c7d5fe9af7b7a4b3fbadc7",
-    "/assets/favicon/coi.ico": "2eefd456b8f4c4aa1753773513b14ecb684ecaf8",
-    "/assets/favicon/dsp.ico": "64b5f85a13d1783d6a03bd27137abdf5f2cb9396",
-    "/assets/favicon/factorio.ico": "742d3faf065bf4f7d8411047d2e9152416f904fa",
-    "/assets/favicon/satisfactory.ico": "248360c1f0e99c97eef67feab88d7d07ec1b2b99",
     "/assets/glpk-wasm/glpk.all.wasm": "e23240d859358856b7106bba79e00b987170dbde",
     "/assets/i18n/en.json": "c7510b4f212d7c3c59f01d776e241f54eff03d7e",
     "/assets/i18n/fr.json": "0fc456458cccfb61097684b44d664f7f1792848c",
@@ -114,8 +106,8 @@
     "/favicon.ico": "98abad45ff4f9ac767af6e97f43545a9d4f5bef9",
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
     "/icons.8bc191c2a3e30dd2.png": "0edc6786610b62438b9975eb53c5365cff87169a",
-    "/index.html": "755043d55a18298c94d94e7a3698f9b41671255d",
-    "/main.7c518bfc9e3a1251.js": "10a742174d48c5cca6883ddc0bd7bcedcf0cf457",
+    "/index.html": "796c7bdef1095a800ffa5679554a51a987aa097b",
+    "/main.4fd2d3320f196b62.js": "cd2af0fc4c9210011c6d372e971b06312b64c1dc",
     "/manifest.webmanifest": "7a49c3cf3daf0db80b34da814984e509d9d18a54",
     "/polyfills.d42b0043713bc9d9.js": "a73fc8c65fb510d07b89afc432d5b7627ad182fa",
     "/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
