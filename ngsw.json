@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1675802593425,
+  "timestamp": 1675803721925,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -16,13 +16,13 @@
         "/522.c13d8f6bdb7248b3.js",
         "/534.eb0a7d181bcfe34c.js",
         "/623.7bc7890d60d86669.js",
-        "/95.14642fe3d1ef2444.js",
+        "/95.bb550e334f3092c3.js",
         "/favicon.ico",
         "/index.html",
         "/main.883133adf1674513.js",
         "/manifest.webmanifest",
         "/polyfills.15636afa9b9eb44a.js",
-        "/runtime.5c900d4fc5dbadab.js",
+        "/runtime.a1d1ce7de9e4ff3a.js",
         "/styles.30aaa8ffb792af56.css",
         "/theme-dark.css",
         "/theme-light.css"
@@ -77,7 +77,7 @@
     "/522.c13d8f6bdb7248b3.js": "15986ab1d4e35eac6f7a44734255d503401a50d9",
     "/534.eb0a7d181bcfe34c.js": "149c5714f88cf0ab0f758ccda8790089d0976ad2",
     "/623.7bc7890d60d86669.js": "9d650e80a86ada57f0bf78ca65f49a48a5e2f355",
-    "/95.14642fe3d1ef2444.js": "57f43e1f185d85c2e589a6155cb5276328583ddd",
+    "/95.bb550e334f3092c3.js": "48f619622455fd331bb245478de8c3f23914cd5c",
     "/assets/glpk-wasm/glpk.all.wasm": "a256348a60f4703838b77b9f3c0bab965c32b994",
     "/assets/i18n/en.json": "58798601f5ff39671bf798327606b793277efb78",
     "/assets/i18n/fr.json": "9112bca8262949178824aa18da9462de35b13f60",
@@ -104,7 +104,7 @@
     "/favicon.ico": "98abad45ff4f9ac767af6e97f43545a9d4f5bef9",
     "/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
     "/icons.8bc191c2a3e30dd2.png": "0edc6786610b62438b9975eb53c5365cff87169a",
-    "/index.html": "eb3284a875dc6e1240279fedddd78c3d9c214380",
+    "/index.html": "4e8cc16a6f66c152005ddb622ada27dcf033a24b",
     "/main.883133adf1674513.js": "0e863ac74ce1f8f42c653e367ee13320b9017911",
     "/manifest.webmanifest": "7a49c3cf3daf0db80b34da814984e509d9d18a54",
     "/polyfills.15636afa9b9eb44a.js": "44910ba9e279d154cd557253745c51cfa3766f9a",
@@ -112,7 +112,7 @@
     "/primeicons.943ab24c43224d29.svg": "d3332a45242b8f6edbf3f3c7176a280e7edcd961",
     "/primeicons.ba3f916dfb64be8c.woff2": "55a4b2a5f02e362405d8d874903af0b5f6a6c15d",
     "/primeicons.f8b9e8a4e401b603.woff": "b1648b50be13350fde8b5d9a6fe78354ddcc43e4",
-    "/runtime.5c900d4fc5dbadab.js": "9e8cbd2e667d3fa9dd34939ea4a4f8602bb385c7",
+    "/runtime.a1d1ce7de9e4ff3a.js": "a1c3bb9f775a7674b66189b5c09195f19da23fca",
     "/styles.30aaa8ffb792af56.css": "72719ee1dd44fe9514480eeef9bd20ca0549a38c",
     "/theme-dark.css": "7fd83da8fda53e4b4f5fb19d4f4b4e77470ee735",
     "/theme-light.css": "ddca6af0b3bd353aaaf676200823b250b9c97d5e"
