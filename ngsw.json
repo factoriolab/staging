@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1683129044791,
+  "timestamp": 1683302592865,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -112,7 +112,7 @@
     "/staging/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
     "/staging/icons.427df3b2bfa08a85.webp": "e19ff88e1a9d4906ce35b4775b62aaf15a19dbda",
     "/staging/icons.webp": "e19ff88e1a9d4906ce35b4775b62aaf15a19dbda",
-    "/staging/index.html": "261ee6bfeffacd5db265f731e1088ff7e9824391",
+    "/staging/index.html": "53247c75fa5bcaef8331248cf84d4af8fd7dddd4",
     "/staging/main.6d7f14243d928007.js": "fe8fe88f7cdbf2d8b96776674fe7ef1b2cf22d11",
     "/staging/mstile-150x150.png": "7a97514987104e30d2ce761a63a992bec07c6b5e",
     "/staging/polyfills.a34d207c8b8eb8f6.js": "0183b79534045970067e677222d2fbff82425580",
