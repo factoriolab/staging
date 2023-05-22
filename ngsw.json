@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1684771530852,
+  "timestamp": 1684782413292,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -24,7 +24,7 @@
         "/staging/common.72e5e066714ce65f.js",
         "/staging/favicon.ico",
         "/staging/index.html",
-        "/staging/main.4e522650df507564.js",
+        "/staging/main.70585b969f21e85a.js",
         "/staging/polyfills.a34d207c8b8eb8f6.js",
         "/staging/runtime.85771366bef21c25.js",
         "/staging/site.webmanifest",
@@ -193,7 +193,7 @@
     "/staging/android-chrome-512x512.png": "bacd3cc50adc00079eb90753dd1bad83b7be3210",
     "/staging/apple-touch-icon.png": "123ad2d5da1322cb2750ee6ebaffdb84ad37f43b",
     "/staging/assets/glpk-wasm/glpk.all.wasm": "a256348a60f4703838b77b9f3c0bab965c32b994",
-    "/staging/assets/i18n/en.json": "981924858ff7f384694ae0d22cb5bd8224f589ea",
+    "/staging/assets/i18n/en.json": "047e4de02554ab51a1e146433da07fc5a2febb3b",
     "/staging/assets/i18n/fr.json": "73dd4748a0e74d42e0a55094e069b83222766a92",
     "/staging/assets/i18n/zh.json": "929b074db6df0afb8f6e4f87c7a1202628369d93",
     "/staging/color.dae87a04d07ca92b.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
@@ -315,8 +315,8 @@
     "/staging/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
     "/staging/icons.427df3b2bfa08a85.webp": "e19ff88e1a9d4906ce35b4775b62aaf15a19dbda",
     "/staging/icons.webp": "e19ff88e1a9d4906ce35b4775b62aaf15a19dbda",
-    "/staging/index.html": "bace1c565f0271dba7862c9b78d06de096bedc7e",
-    "/staging/main.4e522650df507564.js": "8e328da3fc90fd178583cc7eef5a015d5260a30f",
+    "/staging/index.html": "4451d4c0e8e2ad61a34a76d79d1c46c2a360f232",
+    "/staging/main.70585b969f21e85a.js": "b5cf4cd8da09e761de7ad80c3dbf46f46fd4c8b6",
     "/staging/mstile-150x150.png": "7a97514987104e30d2ce761a63a992bec07c6b5e",
     "/staging/polyfills.a34d207c8b8eb8f6.js": "0183b79534045970067e677222d2fbff82425580",
     "/staging/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
