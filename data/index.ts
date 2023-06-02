@@ -35,7 +35,6 @@ export const data: AppData = {
     { id: 'dsp', name: 'Dyson Sphere Program', game: Game.DysonSphereProgram },
     { id: 'sfy', name: 'Satisfactory', game: Game.Satisfactory },
     { id: 'coi', name: 'Captain of Industry', game: Game.CaptainOfIndustry },
-    { id: 'ffy', name: 'Final Factory', game: Game.FinalFactory },
   ],
   v0: [
     '1.1',
@@ -91,6 +90,5 @@ export const data: AppData = {
     'kr2aai',
     'vbz',
     'ffw',
-    'ffy',
   ],
 };
