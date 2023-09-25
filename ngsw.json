@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1695652501337,
+  "timestamp": 1695653067082,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -24,7 +24,7 @@
         "/staging/common.885f3aa19f317183.js",
         "/staging/favicon.ico",
         "/staging/index.html",
-        "/staging/main.2622a24671da385a.js",
+        "/staging/main.caf21ce03fdb2aa3.js",
         "/staging/polyfills.1dd96880dec584a4.js",
         "/staging/runtime.68edb8e7019370fa.js",
         "/staging/site.webmanifest",
@@ -47,6 +47,7 @@
         "/staging/android-chrome-512x512.png",
         "/staging/apple-touch-icon.png",
         "/staging/assets/glpk-wasm/glpk.all.wasm",
+        "/staging/assets/i18n/de.json",
         "/staging/assets/i18n/en.json",
         "/staging/assets/i18n/fr.json",
         "/staging/assets/i18n/zh.json",
@@ -205,6 +206,7 @@
     "/staging/android-chrome-512x512.png": "bacd3cc50adc00079eb90753dd1bad83b7be3210",
     "/staging/apple-touch-icon.png": "123ad2d5da1322cb2750ee6ebaffdb84ad37f43b",
     "/staging/assets/glpk-wasm/glpk.all.wasm": "a256348a60f4703838b77b9f3c0bab965c32b994",
+    "/staging/assets/i18n/de.json": "1020227abef0eb7641355af9a2df1a438124ac51",
     "/staging/assets/i18n/en.json": "026e0dc87f50c8bf4ba264f6ff3e682bc45f8c36",
     "/staging/assets/i18n/fr.json": "d84ff19c8774b02b11929d67e2f8e8f8dcde34d6",
     "/staging/assets/i18n/zh.json": "4cd05594fb3c158313279b815e5a4d8233813790",
@@ -339,8 +341,8 @@
     "/staging/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
     "/staging/icons.0f91ba0092f38179.webp": "f6e2c979c5b5d92da05c4e5b61c5aeafba0721aa",
     "/staging/icons.webp": "f6e2c979c5b5d92da05c4e5b61c5aeafba0721aa",
-    "/staging/index.html": "f2997f17a58a18643a3e5ca31f8a2a7ead286942",
-    "/staging/main.2622a24671da385a.js": "a0daab033f8083eb59676d6c85b7bcbc77b1088c",
+    "/staging/index.html": "cbd78a4c0a4458d2edb798114171f83cdd81b1e0",
+    "/staging/main.caf21ce03fdb2aa3.js": "6db0df3fc17fb4aca4dabf41460590e91fde0ed8",
     "/staging/mstile-150x150.png": "7a97514987104e30d2ce761a63a992bec07c6b5e",
     "/staging/polyfills.1dd96880dec584a4.js": "4dfae3b314000a6f061c4f513c292f4b7b6d3663",
     "/staging/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
