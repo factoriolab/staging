@@ -214,6 +214,7 @@
     "machineDefaults": "Machine defaults",
     "machineTooltip": "Select machine preference",
     "fuelTooltip": "Select fuel",
+    "modifierCountTooltip": "Select modifier count",
     "modifierTooltip": "Select modifier",
     "overclockTooltip": "Set overclock percentage",
     "beaconCountTooltip": "Set beacon count",
@@ -238,8 +239,6 @@
     "defaultFluidWagonTooltip": "Select the default fluid wagon to be used by all fluids",
     "fuelRank": "Preferred fuels",
     "fuelRankTooltip": "Select the order of preferred fuels to be used where applicable",
-    "modifierRank": "Preferred modifiers",
-    "modifierRankTooltip": "Select the order of preferred modifiers to be used where applicable",
     "flowRateUnit": "u/sec",
     "pipeFlowRate": "Pipe flow rate",
     "pipeFlowRateTooltip": "Enter pipe flow rate",
@@ -322,6 +321,7 @@
     "downloadTooltip": "Download list as CSV",
     "showDetails": "Show details",
     "hideDetails": "Hide details",
+    "modifierCountTooltip": "Select modifier count",
     "overclockTooltip": "Overclock percentage",
     "beaconEachTooltip": "Beacons per machine",
     "beaconTotalTooltip": "Total beacons",
@@ -422,10 +422,5 @@
     "prerequisites": "Prerequisites",
     "recipeSettings": "Recipe settings",
     "cost": "Cost"
-  },
-  "beaconsOverlay": {
-    "addBeacons": "Add beacons",
-    "eachTooltip": "Beacons per machine",
-    "totalTooltip": "Total beacons"
   }
 }
