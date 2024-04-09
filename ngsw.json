@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1712338042159,
+  "timestamp": 1712676570420,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -288,9 +288,9 @@
     "/staging/data/ffw/data.json": "4b303130e823cb81b4eb840e47476a4adbe1ee75",
     "/staging/data/ffw/hash.json": "09be77695a9a34a2cfbeba2afcb0db0858d46b72",
     "/staging/data/ffw/icons.webp": "1da401916941b06e5fde5ce856612b87b7568014",
-    "/staging/data/ffy/data.json": "3d35ae96b8a2bf639545212bf187cc456ffb58ca",
-    "/staging/data/ffy/hash.json": "7d9cf05079074d0d15065c2681c020b53f37dd25",
-    "/staging/data/ffy/icons.webp": "dcfc83f8a5ac5622265e3588fc6e0815fa0149fe",
+    "/staging/data/ffy/data.json": "a7212c184b726483328299e4c6066f95faf3bf94",
+    "/staging/data/ffy/hash.json": "33e043b45db9bd77ee3004b812eb24a52fe54735",
+    "/staging/data/ffy/icons.webp": "b2519b9ab89a85975d4c8172adb1c890fd7b5c31",
     "/staging/data/fpp/data.json": "cf371e1c4a44b6c7098fd72237fff26265eb5f4e",
     "/staging/data/fpp/hash.json": "f102520985b86dd6da1ac36e9a11ee49b69f15fd",
     "/staging/data/fpp/icons.webp": "cd5aa3fdbf497f8bf35ed0342598fdf69325f31e",
