@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1723051027496,
+  "timestamp": 1723051545997,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -424,7 +424,7 @@
     "/staging/data/xan/data.json": "6221a847eb89a488260e4fee8a75a38724e2f83e",
     "/staging/data/xan/hash.json": "2932615f2e35549b2d8e30693c1f3dc7eedefff1",
     "/staging/data/xan/icons.webp": "6b8cb542617aa098084b17199465e4880028f0fc",
-    "/staging/factoriolab.webp": "120db99c2db2180b498aa1b8232a2f82e9632d6d",
+    "/staging/factoriolab.webp": "e87709a81a84cd077ab64d9bb08a3428d7be6bd9",
     "/staging/favicon-128x128.png": "983e77afd570f31ac052b051c3195ad4f868abf6",
     "/staging/favicon-16x16.png": "d40f6ffbd9b5acae5df001a13d3f30f4780d015c",
     "/staging/favicon-32x32.png": "d7e8414949b6fb66608930da30ef2bdf1419b330",
