@@ -49,7 +49,7 @@ export const data: AppData = {
     { id: 'ffy', name: 'Final Factory', game: Game.FinalFactory },
     { id: 'ulc', name: 'Ultracube', game: Game.Factorio },
   ],
-  v0: [
+  modHashV0: [
     '1.1',
     '1.0',
     '0.17',
@@ -68,7 +68,7 @@ export const data: AppData = {
     'space-exploration',
     'xander',
   ],
-  hash: [
+  modHash: [
     '1.1',
     '1.0',
     '017',
