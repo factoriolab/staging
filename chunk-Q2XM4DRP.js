@@ -1,1 +1,0 @@
-import{Hc as e,Ic as t}from"./chunk-UVK4FVHI.js";var o="[Machines]",c=e(`${o} Set Fuel`,t()),n=e(`${o} Set Modules`,t()),r=e(`${o} Set Beacons`,t()),p=e(`${o} Set Overclock`,t()),a=e(`${o} Reset Machine`,t());export{c as a,n as b,r as c,p as d,a as e};
