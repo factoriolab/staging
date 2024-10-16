@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1729099128579,
+  "timestamp": 1729099959008,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -321,8 +321,8 @@
     "/staging/data/1.1e/hash.json": "26b1c4d4b0133091d2815fb5d5f4bacce2d1394d",
     "/staging/data/1.1e/i18n/ja.json": "58824323ad7854bd3eb0e72eeb6c33b48271e964",
     "/staging/data/1.1e/icons.webp": "c22aebdfe156f65a85da43c75b60cac7aac7a1b8",
-    "/staging/data/2.0/data.json": "064b9f6de36d25f13ced802292857a1206f168f4",
-    "/staging/data/2.0/hash.json": "78d4ec0bf0ec488ddc901f35674bdf9f708155f3",
+    "/staging/data/2.0/data.json": "9ced61e9856b3ebf64aae02eee2883dbe10b2479",
+    "/staging/data/2.0/hash.json": "7f325ba3b79a0ef0aeb00bd89399563700575484",
     "/staging/data/2.0/i18n/ja.json": "58824323ad7854bd3eb0e72eeb6c33b48271e964",
     "/staging/data/2.0/i18n/zh.json": "6643d3c9a8db174bc0ba8020beebb888a683fe09",
     "/staging/data/2.0/icons.webp": "c22aebdfe156f65a85da43c75b60cac7aac7a1b8",
