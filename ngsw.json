@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1734096683189,
+  "timestamp": 1734097313261,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -336,11 +336,11 @@
     "/staging/data/1.1e/hash.json": "26b1c4d4b0133091d2815fb5d5f4bacce2d1394d",
     "/staging/data/1.1e/i18n/ja.json": "58824323ad7854bd3eb0e72eeb6c33b48271e964",
     "/staging/data/1.1e/icons.webp": "c22aebdfe156f65a85da43c75b60cac7aac7a1b8",
-    "/staging/data/2.0/data.json": "377e6ba020646b2ea88f241ab375dc6b17621718",
-    "/staging/data/2.0/hash.json": "25b6c56e6a13af5e4b58cb84f6188880725595c3",
+    "/staging/data/2.0/data.json": "5e58233e3ae061236a16c8980845938c1f6cf83a",
+    "/staging/data/2.0/hash.json": "d5339eb4e5c36f3bb4acbf56582bfce0067ec718",
     "/staging/data/2.0/i18n/ja.json": "58824323ad7854bd3eb0e72eeb6c33b48271e964",
     "/staging/data/2.0/i18n/zh.json": "91a8a3a3c71e8bfcb478cf5788abeb3be349ab30",
-    "/staging/data/2.0/icons.webp": "e9575a31d8a9f98ca21ddae7c8c884d6e66d8d8e",
+    "/staging/data/2.0/icons.webp": "a79ac3338b607d0b9638f3f4602ffbff7bcdb962",
     "/staging/data/248/data.json": "10bd344afe2d4f5a5a182e97e633b71fa53b9203",
     "/staging/data/248/hash.json": "0b8cbab11f09330b28949b2aaa3f493d93c873f9",
     "/staging/data/248/icons.webp": "d00f842e46a05c5cd71ca2e62ee1297fce616375",
