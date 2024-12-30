@@ -1,1 +1,0 @@
-import{c as n}from"./chunk-GW56ZXBW.js";import{S as r,W as i}from"./chunk-DMCM6UY2.js";var u=(()=>{class t{constructor(){this.displaySvc=r(n)}transform(e){return e.toString()}static{this.\u0275fac=function(o){return new(o||t)}}static{this.\u0275pipe=i({name:"bonusPercent",type:t,pure:!0,standalone:!0})}}return t})();export{u as a};
