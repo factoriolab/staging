@@ -42,7 +42,8 @@
       "satisfactory": "Satisfactory",
       "captainOfIndustry": "Captain of Industry",
       "techtonica": "Techtonica",
-      "finalFactory": "Final Factory"
+      "finalFactory": "Final Factory",
+      "factorY": "Factor Y"
     },
     "inserterCapacity": {
       "capacity0": "Нет бонуса за емкость",
@@ -68,6 +69,7 @@
     "preset": {
       "minimum": "Минимум",
       "modules": "Модули",
+      "beacon2": "2 Маяков",
       "beacon8": "8 Маяков",
       "beacon12": "12 Маяков",
       "upgraded": "Улучшено",

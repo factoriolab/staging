@@ -42,7 +42,8 @@
       "satisfactory": "Satisfactory",
       "captainOfIndustry": "Captain of Industry",
       "techtonica": "Techtonica",
-      "finalFactory": "Final Factory"
+      "finalFactory": "Final Factory",
+      "factorY": "Factor Y"
     },
     "inserterCapacity": {
       "capacity0": "容量ボーナスなし",
@@ -68,6 +69,7 @@
     "preset": {
       "minimum": "最小限",
       "modules": "モジュール",
+      "beacon2": "ビーコン2台",
       "beacon8": "ビーコン8台",
       "beacon12": "ビーコン12台",
       "upgraded": "アップグレード済",
