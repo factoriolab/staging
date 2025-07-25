@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1752169349231,
+  "timestamp": 1753472236061,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -677,6 +677,10 @@
     {
       "positive": false,
       "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/staging$"
     }
   ],
   "navigationRequestStrategy": "performance"
