@@ -7,13 +7,17 @@
   "app": {
     "factory": "工厂",
     "list": "列表",
-    "flow": "流程图",
+    "flow": "桑基图",
     "data": "数据",
     "error": "错误",
     "errorDetail": "此应用遇到了一个错误：",
     "resetTooltip": "点击重置",
     "simplexSolved": "计算完成, {{ time }}毫秒, 耗费: {{ cost }}",
-    "migrationWarning": "迁移警告"
+    "migrationWarning": "迁移警告",
+    "updateAvailable": "发现新版本",
+    "updateAvailableMessage": "发现新版本，是否要刷新页面进行更新？",
+    "updateRequired": "需要更新",
+    "updateRequiredMessage": "发现新版本，必须刷新页面才能继续使用。"
   },
   "options": {
     "column": {
@@ -22,6 +26,7 @@
       "items": "物品",
       "belts": "传送带",
       "wagons": "车厢",
+      "rockets": "火箭",
       "machines": "设备",
       "beacons": "插件效果分享塔",
       "power": "电量",
@@ -87,6 +92,9 @@
       "wagonsPerSecond": "车厢/秒",
       "wagonsPerMinute": "车厢/分",
       "wagonsPerHour": "车厢/时",
+      "rocketsPerSecond": "火箭/秒",
+      "rocketsPerMinute": "火箭/分",
+      "rocketsPerHour": "火箭/时",
       "machines": "设备",
       "pollutionPerSecond": "污染/秒",
       "pollutionPerMinute": "污染/分",
@@ -390,7 +398,7 @@
   "flow": {
     "downloadAsPng": "导出为 PNG 文件",
     "downloadAsJson": "导出为 JSON 文件",
-    "flowSettings": "流程图设置"
+    "flowSettings": "桑基图设置"
   },
   "flowSettings": {
     "diagram": "可视化类型",
@@ -402,7 +410,7 @@
     "sankeyAlign": "桑基图对齐方式",
     "sankeyAlignTooltip": "选择桑基图节点的对齐方式",
     "hideExcluded": "隐藏排除项",
-    "hideExcludedTooltip": "如果勾选，排除的项目也将从流程图中隐藏"
+    "hideExcludedTooltip": "如果勾选，排除的项目也将从桑基图中隐藏"
   },
   "data": {
     "notFound": "没有找到",
