@@ -1,0 +1,1 @@
+import{C as n,Gb as t,nb as r}from"./chunk-TUIYWWJP.js";var a=class e{constructor(){this.config=t(()=>"release.json");this.version=r(()=>{let o=this.config.value();return o==null?"":`FactorioLab ${o.version||"(dev)"}`})}static{this.\u0275fac=function(i){return new(i||e)}}static{this.\u0275prov=n({token:e,factory:e.\u0275fac,providedIn:"root"})}};export{a};
