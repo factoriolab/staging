@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1778687458291,
+  "timestamp": 1778696230974,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -608,7 +608,7 @@
     "/staging/data/sea/icons.webp": "2e3788500b932d739d40a3848d757b4200a20b33",
     "/staging/data/sfy/data.json": "6bbb16f996840ef2abd63b8558a1e0d87f98f38d",
     "/staging/data/sfy/defaults.json": "d47e39b5bfedd0119f1253160793f9c2ba09f216",
-    "/staging/data/sfy/hash.json": "fe83d9f84bce1303db72c5a41e4cc9cdf86e74fa",
+    "/staging/data/sfy/hash.json": "2dfbaf260829c8ea904ecff0fb14d651f5d3e9c9",
     "/staging/data/sfy/i18n/fr.json": "127bb59f276e34e439b7fa15c83ba9a0afb7d949",
     "/staging/data/sfy/i18n/zh.json": "a875ace03442abcba0b9fc25c6754f86f300584a",
     "/staging/data/sfy/icons.webp": "5ceb5475dcf87a1763ed9172df3ae06e63e6c675",
