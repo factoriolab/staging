@@ -1,1 +1,0 @@
-import'./main-LXRHUES4.js';var o=[{path:"list",loadComponent:()=>import('./chunk-C3FAJmEY.js').then(function(n){return n.c}).then(t=>t.Steps)},{path:"flow",loadComponent:()=>import('./chunk-YkkZswEz.js').then(t=>t.Flow)},{path:"data",loadChildren:()=>import('./chunk-BaAFhllJ.js').then(t=>t.routes)}];export{o as routes};
