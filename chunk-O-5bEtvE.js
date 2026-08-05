@@ -1,1 +1,0 @@
-import'./main-RSYGEDTR.js';var o=[{path:"list",loadComponent:()=>import('./chunk-BPvH0KEs.js').then(function(n){return n.c}).then(t=>t.Steps)},{path:"flow",loadComponent:()=>import('./chunk-rw0Wys_T.js').then(t=>t.Flow)},{path:"data",loadChildren:()=>import('./chunk-fxp5km0d.js').then(t=>t.routes)}];export{o as routes};
