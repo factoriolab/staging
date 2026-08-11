@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1786386666135,
+  "timestamp": 1786485770683,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -309,11 +309,11 @@
     "/staging/data/sea/data.json": "a04ad73520ad66ce5108e4554f5874b0447a0c7e",
     "/staging/data/sea/hash.json": "9317a48895a6cc9c2d905c9262038da2dce9da29",
     "/staging/data/sea/icons.webp": "2e3788500b932d739d40a3848d757b4200a20b33",
-    "/staging/data/sfy/data.json": "8b5dda35b342bd985af3d7c71bad631265a9cf9e",
+    "/staging/data/sfy/data.json": "9da142cff80a302a547a7dc62954ea165db45dbd",
     "/staging/data/sfy/hash.json": "f10b6d6876d3bd42b55a1995251b4c76fd219257",
     "/staging/data/sfy/i18n/fr.json": "9245f7c4eab3076e131aa7795781a1967f63fc52",
     "/staging/data/sfy/i18n/zh.json": "af8f29010fba2f7a5d79d01a1b8e783b543d23b8",
-    "/staging/data/sfy/icons.webp": "5ceb5475dcf87a1763ed9172df3ae06e63e6c675",
+    "/staging/data/sfy/icons.webp": "27110e25af54e3429dff91ad4d03e6e1a06b5f71",
     "/staging/data/sky/data.json": "b7b25ec6976a4c00379f4084dc53ca4a52a0fb7b",
     "/staging/data/sky/hash.json": "40b2f377519cb46dd3c51f3ddf55fedbf4f01e11",
     "/staging/data/sky/icons.webp": "d6e0e0ee4463600349d9fba6c95dd0441c803d03",
