@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1788233102518,
+  "timestamp": 1788356617340,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -357,7 +357,7 @@
     "/staging/icons/icon-72x72.png": "af772f4d8e1f9d20a1a73cd74875dc44dbe61d1d",
     "/staging/icons/icon-96x96.png": "e2f631847e869a681191485f9273c892eeb4ef09",
     "/staging/icons/icons.webp": "d7d8013c9402f367ac03eef4dd830a119c89e0f8",
-    "/staging/index.html": "56291c1ead43639fc6e0d9892a424ec1cf3470df",
+    "/staging/index.html": "c55316a1cb64eb5d05a0c750b9c3454b86f007c7",
     "/staging/main-XUFORTHO.js": "f7720bc71afee96d407c7da6f63fa2392e9b6659",
     "/staging/manifest.webmanifest": "bdd5fd376e4f00202de41aada8e53eabea3db91d",
     "/staging/release.json": "8c361ad56326ac8b2b3c1c8eb9996d0a9ca85d7e",
