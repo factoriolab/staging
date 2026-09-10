@@ -1,0 +1,1 @@
+import {D,G as Ge,dt as Yh,b1 as z1e,a_ as L1e,aw as ie}from'./main-4KVRT5MD.js';var n=class{constructor(){this.confirm=D(Ge);this.edit=D(Yh);this.faTrash=z1e;this.faFloppyDisk=L1e;this.iconOptions=ie(()=>{let{data:d,icons:l}=this.edit();return d.icons.map(o=>({label:o.id,value:o.id,icon:l[o.id]?.url,iconType:"img"})).sort((o,m)=>o.label.localeCompare(m.label))});}};export{n};
