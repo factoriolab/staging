@@ -1,1 +1,0 @@
-import'./main-RBUT3CLM.js';var o=[{path:"list",loadComponent:()=>import('./chunk-Dmjxv_D4.js').then(function(n){return n.c}).then(t=>t.Steps)},{path:"flow",loadComponent:()=>import('./chunk-DESEJTTI.js').then(t=>t.Flow)},{path:"data",loadChildren:()=>import('./chunk-CbgZ2LK9.js').then(t=>t.routes)}];export{o as routes};
