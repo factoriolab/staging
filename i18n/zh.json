@@ -103,7 +103,6 @@
     "inserterStack": "Inserter stack",
     "inserters": "Inserters",
     "itemSettings": "物品设置",
-    "itemTypes": "Item types",
     "items": "物品",
     "locations": "地点",
     "machine": "设备",
@@ -117,7 +116,6 @@
     "modules": "插件",
     "name": "名称",
     "notFound": "没有找到",
-    "numberStacks": "{{ value }} stacks",
     "overclock": "超频",
     "pollution": "污染",
     "pollutionMultiplier": "Pollution multiplier",
@@ -148,7 +146,7 @@
     "technologies": "科技",
     "technology": "科技",
     "time": "时间 (秒)",
-    "types": "Types",
+    "type": "Type",
     "unlockQuality": "Unlock quality",
     "unlockRecipe": "Unlock recipe",
     "unlockedBy": "解锁自",
@@ -162,7 +160,6 @@
   "editor": {
     "beaconCount": "Beacon count",
     "beaconModule": "Beacon module",
-    "capacityType": "Capacity type",
     "chooseImages": "Choose images",
     "clone": "Clone",
     "color": "Color",
@@ -174,6 +171,7 @@
     "export": "Export",
     "hardCodedPresets": "Hard-coded presets (legacy)",
     "header": "Game data editor",
+    "hideRate": "Hide rate",
     "home": "Home",
     "icon": "Icon",
     "iconText": "Icon text",
@@ -195,7 +193,7 @@
     "resetColors": "Reset colors",
     "rocketLaunchTime": "Rocket launch time (ticks)",
     "row": "Row",
-    "stacks": "Stacks",
+    "totalRecipe": "Total recipe",
     "unlimited": "Unlimited",
     "upload": "Upload custom files"
   },
@@ -316,8 +314,7 @@
     },
     "energyType": {
       "burner": "Burner",
-      "electric": "Electric",
-      "heat": "Heat"
+      "electric": "Electric"
     },
     "flowDiagram": {
       "boxLine": "工序图",
