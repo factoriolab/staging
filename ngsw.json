@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1795375512009,
+  "timestamp": 1795387357316,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -283,17 +283,17 @@
     "/staging/data/2.0/i18n/ko.json": "ff179a7a6f1bb16b641ee948c1101c0c9a00da23",
     "/staging/data/2.0/i18n/zh.json": "91a8a3a3c71e8bfcb478cf5788abeb3be349ab30",
     "/staging/data/2.0/icons.webp": "2b87aa740be40ee2a028521587e7d78097eb905f",
-    "/staging/data/2.1/data.json": "91e2065d1316b626317452fc67a2de5ae8c38c60",
+    "/staging/data/2.1/data.json": "6ef372cf54ff3b0efb1c4f4ebf0b7f17c80d1d7f",
     "/staging/data/2.1/hash.json": "42b361696f8b940d62713a767ead4adcbb330d44",
     "/staging/data/2.1/i18n/ja.json": "58824323ad7854bd3eb0e72eeb6c33b48271e964",
     "/staging/data/2.1/i18n/ko.json": "b331a98a23cc3cb5d8e97f115625cfc5398fb791",
     "/staging/data/2.1/i18n/zh.json": "91a8a3a3c71e8bfcb478cf5788abeb3be349ab30",
     "/staging/data/2.1/icons.webp": "7a7d74a2f5bdb468708a93ef2d43df322107f3c3",
-    "/staging/data/2q1/data.json": "c032dc6eae569330a3a2c1335c0444d731828cb0",
+    "/staging/data/2q1/data.json": "44b9689be52dae1d680cd41b0f8cee2b8dd55d82",
     "/staging/data/2q1/hash.json": "a71cfca27954861881375e11179383efed70de5d",
     "/staging/data/2q1/i18n/ko.json": "1c29f263d72c7402e7d968de039d1adc138144ae",
     "/staging/data/2q1/icons.webp": "89bf079a33ae40b473b8e4ed28ec071e9a09805e",
-    "/staging/data/2x1/data.json": "e8c2ecd362a7065e517347841843926eae2b2782",
+    "/staging/data/2x1/data.json": "4636ef32841e53248f6364da4161fc1f077bbdff",
     "/staging/data/2x1/hash.json": "5fd8cb8f9f64f0e4bcc0d94968e5d3e84b2f3144",
     "/staging/data/2x1/i18n/ja.json": "58824323ad7854bd3eb0e72eeb6c33b48271e964",
     "/staging/data/2x1/i18n/ko.json": "c9ec1aa8e1b74ca6ecb81a80b9b8259f5c70a86f",
